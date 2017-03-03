@@ -4,7 +4,7 @@ gcovmagic is a tool to simplify unit testing with gcov
 
 ## Arguments
 
-usage: gcovmagic.py [-h] FileToTest [-t TESTS [TESTS ...]] [-d [TESTDEPS [TESTDEPS ...]]]
+usage: gcovmagic.py [-h] FileToTest [-t TESTS [TESTS ...]] [-d [TESTDEPENDENCIES [TESTDEPENDENCIES ...]]]
 
 ## Motivation
 
